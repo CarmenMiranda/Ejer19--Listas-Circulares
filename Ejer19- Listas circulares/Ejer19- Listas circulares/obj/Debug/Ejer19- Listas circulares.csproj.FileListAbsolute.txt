@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\Ingeniería de Software\4to Semestre\Estructuras de datos\2da Parcial\Ejer19- Listas circulares\Ejer19- Listas circulares\bin\Debug\Ejer19- Listas circulares.exe.config
+E:\Estructura de datos\2da Parcial\Ejer19- Listas circulares\Ejer19- Listas circulares\bin\Debug\Ejer19- Listas circulares.exe.config
+E:\Estructura de datos\2da Parcial\Ejer19- Listas circulares\Ejer19- Listas circulares\obj\Debug\Ejer19- Listas circulares.csprojResolveAssemblyReference.cache
+E:\Estructura de datos\2da Parcial\Ejer19- Listas circulares\Ejer19- Listas circulares\obj\Debug\Ejer19__Listas_circulares.Form1.resources
+E:\Estructura de datos\2da Parcial\Ejer19- Listas circulares\Ejer19- Listas circulares\obj\Debug\Ejer19__Listas_circulares.Properties.Resources.resources
+E:\Estructura de datos\2da Parcial\Ejer19- Listas circulares\Ejer19- Listas circulares\obj\Debug\Ejer19- Listas circulares.csproj.GenerateResource.Cache
+E:\Estructura de datos\2da Parcial\Ejer19- Listas circulares\Ejer19- Listas circulares\bin\Debug\Ejer19- Listas circulares.exe
+E:\Estructura de datos\2da Parcial\Ejer19- Listas circulares\Ejer19- Listas circulares\bin\Debug\Ejer19- Listas circulares.pdb
+E:\Estructura de datos\2da Parcial\Ejer19- Listas circulares\Ejer19- Listas circulares\obj\Debug\Ejer19- Listas circulares.exe
+E:\Estructura de datos\2da Parcial\Ejer19- Listas circulares\Ejer19- Listas circulares\obj\Debug\Ejer19- Listas circulares.pdb
